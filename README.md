@@ -1,8 +1,3 @@
-Certainly! Let's create a **README.md** file for your GitHub repository **JavaPracticeProject2024-OOP**. A good README provides essential information about your project, helping visitors understand its purpose and how to use it.
-
-Here's a sample README content you can use as a starting point:
-
-```markdown
 # Java Practice Project 2024 (Object-Oriented Programming)
 
 Welcome to the **Java Practice Project 2024**! This repository is designed for practicing Java programming concepts, focusing on object-oriented programming (OOP). Whether you're a beginner or an experienced developer, this project aims to enhance your Java skills.
@@ -54,14 +49,3 @@ Contributions are welcome! If you find a bug, have an idea for an exercise, or w
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README to match your project's specifics. Happy coding! 🚀
-```
-
-Remember to replace the placeholder content with actual details relevant to your project. If you have any specific requirements or need further assistance, feel free to ask! 😊👍
-
-Origen: Conversación con Bing, 4/17/2024
-(1) About READMEs - GitHub Docs. https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes.
-(2) Acerca de los archivos README - Documentación de GitHub. https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes.
